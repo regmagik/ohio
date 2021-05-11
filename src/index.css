@@ -7,7 +7,15 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.jumbotron {
+h1, h2 {
+	color: darkred;
+}
+
+.btn {
+	background-color: darkred;
+	color: white;
+}
+/* .jumbotron {
 	background-color: #c66;
 }
 
@@ -21,11 +29,15 @@ body {
 
 .contact {
 	background-color: #c66;
-	/* color: pink;
+	color: pink;
 	background-color: black;
-	background-image: "url('https://images.unsplash.com/photo-1557804506-669a67965ba0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80')" */
-}
+	background-image: "url('https://images.unsplash.com/photo-1557804506-669a67965ba0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80')" 
+} */
 
+.unsplash {
+	max-height: 100%;
+	max-width: 100%;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
