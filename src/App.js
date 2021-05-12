@@ -87,13 +87,13 @@ function Contact() {
 		<div className="contact py-4">
 		<Container>
 		<Row>
-			<Col className="md-6">
+			<Col md="6">
 			<h1>Contact</h1>
 			<div>Call: 614-940-3230</div>
 			<div>Email: viktoriyapss@att.net</div>
 			<div>Web: www.ohiophysiciansupport.com</div>
 			</Col>
-			<Col className="md-6">
+			<Col md="6">
 				<img className="unsplash" alt="" src="https://images.unsplash.com/photo-1560582861-45078880e48e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1868&q=80"></img>
 			</Col>
 		</Row>
